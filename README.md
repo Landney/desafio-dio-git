@@ -1,2 +1,3 @@
-# Repositório do Desafio do Projeto sobre Git/GiltHub da DIO
-Repositório criado para o Desafio do Projeto
+# Repositório Para o Projeto da DIO
+Repositório criado para o **Desafio Prático** do Projeto da DIO
+-[x]Feito
